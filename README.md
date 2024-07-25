@@ -25,7 +25,6 @@ Tools
 
 ### Certification
 [(Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/5RPDQ67NQJXF)
-Network)
   
 Endpoint
  
