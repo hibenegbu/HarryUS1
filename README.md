@@ -26,6 +26,7 @@ Scripting and Automation for Threat Mitigation	SOC Automation Lab
 
 ### Certification
 [(Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/5RPDQ67NQJXF)
+
 [Linus & SQL](https://www.coursera.org/account/accomplishments/records/TBAQEQJ6YKH3)
 
 Endpoint
