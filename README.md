@@ -10,43 +10,37 @@ Welcome to my GitHub portfolio! I’m a Security and Data Analyst transitioning 
 - 💡 Passionate about continuous learning and open to opportunities that allow me to develop my technical expertise further
 - ⚙️ Core Skills: Network Security, Data Analysis, Incident Response, Nmap, Wireshark, SQL, Python
 
-🚀 Portfolio Projects:
+## 🚀 Portfolio Projects:
 
 Here are a few of my recent projects:
 
 
-# Network Scanning and Discovery using Nmap**:
+## Network Scanning and Discovery using Nmap**:
    This project demonstrates my use of Nmap to map networks, identify hosts, and perform comprehensive port scanning to detect vulnerabilities and strengthen security.
 
 
-# Network Analysis using Wireshark**:
+## Network Analysis using Wireshark**:
    In this project, I captured and analyzed network traffic, including DNS queries, OCSP responses, and encrypted traffic, to understand network behavior and detect anomalies using Wireshark.
 
 
-# Incident Response Process: User Account Containment and Analysis**:
+## Incident Response Process: User Account Containment and Analysis**:
    This project focuses on the containment of compromised user accounts and the investigation process to identify the scope of the breach. 
    It includes securing affected accounts, analyzing access logs, and implementing preventative measures.
 
-### Certifications:
+## Certifications:
 
 - **CompTIA Security+** – Credential ID: XXXXXX
 - **Certified Ethical Hacker (CEH)** – Credential ID: XXXXXX
 - **Cisco Certified Network Associate (CCNA)** – Credential ID: XXXXXX
 
-🚀 Excited About the Transition:
+## 🚀 Excited About the Transition:
 
 The transition from law to tech has been an exciting journey for me, and I'm constantly motivated to explore new challenges and opportunities in the security and data space. I'm particularly drawn to cybersecurity because of its complexity and the potential for learning and growth.
 
-📫 How to Reach Me:
+## 📫 How to Reach Me:
 
-- Email: ibenegbuebuka@gmail.com
-- LinkedIn: Your LinkedIn URL
-
-![image](https://github.com/user-attachments/assets/af896e01-acc7-41fa-93ee-29f7bea37cb2)
-
-
-###Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+- Email: [ibenegbuebuka@gmail.com]
+- LinkedIn: [hibenegbu] (#)
 
 
 Skill                                     	Associated Project
