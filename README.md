@@ -58,12 +58,8 @@ Scripting and Automation for Threat Mitigation	SOC Automation Lab
 
 [Linus & SQL](https://www.coursera.org/account/accomplishments/records/TBAQEQJ6YKH3)
 
-Endpoint
- 
-SIEM
-  
-Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+[Qualys] ()
 
+[OneTrust] (Tech Risk & Compliance Professional)
     
 
