@@ -27,7 +27,7 @@ Here are a few of my recent projects:
    This project focuses on the containment of compromised user accounts and the investigation process to identify the scope of the breach. 
    It includes securing affected accounts, analyzing access logs, and implementing preventative measures.
 
-## Certifications:
+### Certifications:
 
 - **CompTIA Security+** – Credential ID: XXXXXX
 - **Certified Ethical Hacker (CEH)** – Credential ID: XXXXXX
@@ -72,6 +72,4 @@ Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 
     
-Projects
-Detection Lab
-SOC Automation Project
+
