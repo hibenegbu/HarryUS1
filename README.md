@@ -34,7 +34,7 @@ The transition from law to tech has been an exciting journey for me, and I'm con
 ## 📫 How to Reach Me:
 
 - Email: [ibenegbuebuka@gmail.com]
-- LinkedIn: [Linkedin] (http://wwww.linkedin.com/in/hibenegbu)
+- [Linkedin] (http://www.linkedin.com/in/hibenegbu)
 
 ### Certification:
 [(Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/5RPDQ67NQJXF)
