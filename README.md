@@ -27,12 +27,6 @@ Here are a few of my recent projects:
    This project focuses on the containment of compromised user accounts and the investigation process to identify the scope of the breach. 
    It includes securing affected accounts, analyzing access logs, and implementing preventative measures.
 
-## Certifications:
-
-- **CompTIA Security+** – Credential ID: XXXXXX
-- **Certified Ethical Hacker (CEH)** – Credential ID: XXXXXX
-- **Cisco Certified Network Associate (CCNA)** – Credential ID: XXXXXX
-
 ## 🚀 Excited About the Transition:
 
 The transition from law to tech has been an exciting journey for me, and I'm constantly motivated to explore new challenges and opportunities in the security and data space. I'm particularly drawn to cybersecurity because of its complexity and the potential for learning and growth.
@@ -42,24 +36,13 @@ The transition from law to tech has been an exciting journey for me, and I'm con
 - Email: [ibenegbuebuka@gmail.com]
 - LinkedIn: [hibenegbu] (#)
 
-
-Skill                                     	Associated Project
-SIEM Implementation and Log Analysis	      Detection Lab
-Network Traffic Monitoring and Attack       Detection	Detection Lab
-Security Automation with Shuffle SOAR	      SOC Automation Lab
-Incident Response Planning and Execution	  SOC Automation Lab
-Case Management with TheHive	              SOC Automation Lab
-Scripting and Automation for Threat Mitigation	SOC Automation Lab
-
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Certification
+### Certification:
 [(Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/5RPDQ67NQJXF)
 
 [Linus & SQL](https://www.coursera.org/account/accomplishments/records/TBAQEQJ6YKH3)
 
-[Qualys] ()
+[Qualys Vulnerability Management Detection and Response]
 
-[OneTrust] (Tech Risk & Compliance Professional)
+[OneTrust Tech Risk & Compliance Professional]
     
 
